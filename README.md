@@ -25,12 +25,14 @@
 
 ## Λίστα υλικών
 
--   [Microbit V2](https://microbit.org/new-microbit/) – κόστος 20 ευρώ
--   [HuskyLens](https://www.why.gr/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B1/open-hardware/dfrobot/huskylens-%CE%B5%CF%8D%CE%BA%CE%BF%CE%BB%CE%B7-%CF%83%CF%84%CE%B7-%CF%87%CF%81%CE%AE%CF%83%CE%B7-%CE%B1rtificial-%CE%B9ntelligence-%CE%BA%CE%AC%CE%BC%CE%B5%CF%81%CE%B1/) AI Camera for Microbit – κόστος 60 ευρώ
--   [All-in-one Robotics Board for BBC micro:bit](https://grobotronics.com/all-in-one-robotics-board-for-bbc-micro-bit.html)  – κόστος 23 ευρώ
--   [MQ-2 Smoke Detector](https://www.skroutz.gr/s/25618483/MQ2-SMOKE-BUTANE-DETECTOR.html)  – κόστος 3 ευρώ
+-   [Microbit V2](https://grobotronics.com/bbc-micro-bit-v2-boardretail.html) – κόστος 19 ευρώ
+-   [HuskyLens AI Camera for Microbit](https://www.hellasdigital.gr/electronics/sensors/gravity-huskylens-an-easy-to-use-ai-machine-vision-sensor/) AI Camera for Microbit – κόστος 56 ευρώ
+-   [Edge Breakout for BBC micro:bit ](https://grobotronics.com/edge-breakout-for-bbc-micro-bit.html)  – κόστος 11 ευρώ
+-   [MQ135 MQ-135 Air Quality Sensor](https://www.hellasdigital.gr/electronics/sensors/gas-sensors/mq135-mq-135-air-quality-sensor-hazardous-gas-detection-module-for-arduino/)  – κόστος 3 ευρώ
+-   [Μπαταριοθήκη 2xAAA - με JST PH no Cover](https://grobotronics.com/battery-holder-2xaaa-with-jst-ph-no-cover.html) - κόστος 1 ευρώ
+-   [PLA Fillament 1KG](https://grobotronics.com/3d-printer-filament-devil-pla-1.75mm-pink-1kg.html) – κόστος 22 ευρώ
 -   Κινητήρες servo για την κίνηση των χεριών (έχουμε στο εργαστήριο)
 -   Παλιά ηχεία υπολογιστή (έχουμε στο εργαστήριο)
 
-**Συνολικό κόστος: 106 ευρώ**
+**Συνολικό κόστος: 112 ευρώ**
 ![enter image description here](https://ppf.edu.gr/hackers/wp-content/uploads/2021/03/my-hero.png)
